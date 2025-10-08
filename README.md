@@ -1,4 +1,4 @@
-# Core
+# Foundation
 
 Пакет Go.
 
