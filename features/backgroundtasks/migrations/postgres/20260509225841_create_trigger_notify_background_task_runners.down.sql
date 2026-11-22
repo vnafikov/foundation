@@ -1,0 +1,3 @@
+DROP TRIGGER trigger_notify_background_task_runners ON background_tasks;
+
+DROP FUNCTION notify_background_task_runners;

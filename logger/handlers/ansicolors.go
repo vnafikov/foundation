@@ -1,0 +1,27 @@
+package handlers
+
+const (
+	resetColor    = "\x1b[0m"
+	black         = "\x1b[30m"
+	red           = "\x1b[31m"
+	green         = "\x1b[32m"
+	yellow        = "\x1b[33m"
+	blue          = "\x1b[34m"
+	magenta       = "\x1b[35m"
+	cyan          = "\x1b[36m"
+	gray          = "\x1b[37m"
+	darkGray      = "\x1b[90m"
+	brightRed     = "\x1b[91m"
+	brightGreen   = "\x1b[92m"
+	brightYellow  = "\x1b[93m"
+	brightBlue    = "\x1b[94m"
+	brightMagenta = "\x1b[95m"
+	brightCyan    = "\x1b[96m"
+	white         = "\x1b[97m"
+	deepSkyBlue   = "\x1b[38;5;27m"
+	purple        = "\x1b[38;5;99m"
+	springGreen   = "\x1b[38;5;106m"
+	orange        = "\x1b[38;5;202m"
+	tangerine     = "\x1b[38;5;208m"
+	brightOrange  = "\x1b[38;5;214m"
+)
